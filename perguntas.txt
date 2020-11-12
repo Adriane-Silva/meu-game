@@ -1,0 +1,28 @@
+{
+    0 : {
+      'pergunta':'O céu é azul?',
+      'respostas': {
+        0: {
+          'resposta': 'Sim',
+          'isCorreta': 1
+        },
+        1: {
+          'resposta': 'Não',
+          'isCorreta': 0
+        }
+      }
+    },
+    1 : {
+      'pergunta':'O céu é azul????',
+      'respostas': {
+        0: {
+          'resposta': 'Sqweqwem',
+          'isCorreta': 1
+        },
+        1: {
+          'resposta': 'Não',
+          'isCorreta': 0
+        }
+      }
+    }
+  }
